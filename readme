@@ -1,0 +1,22 @@
+Display Mode - Fullscreen
+Resolution - Max
+Aspect Ratio Method - For a 16:9 aspect ratio monitor resolution and monitor this setting will have no effect. Valorant supports a maximum aspect ratio of 16:9 so if you have anything above that then "Letterbox" will place black bars to make a 16:9 aspect ratio, whereas fill will strecth the pixels to fill your whole screen.
+Limit FPS on Battery - Personal Preference
+Limit FPS in Menus - Personal Preference
+Limit FPS in Background - Personal Preference
+
+Limit FPS Always - Refresh Rate
+Multithreaded Rendering - Always on, if you don't see it in settings, it's fine.
+Material Quality - Low
+Texture Quality - Low
+Detail Quality - Low
+UI Quality - Low
+Vignette - Maybe
+Vsync - Always Off
+Anti-Aliasing - Depends
+Anistropic Filtering - Depends
+Improve Clarity - Off
+Experimental Sharpening
+Bloom - On
+Distortion - Off
+Cast Shadows - Off
